@@ -1,0 +1,6 @@
+{{#user}}
+Name: Prince
+Skills: C, C++, Python, HTML, CSS, JavaScript, MYSQL,MongoDB,Postman, Django, Flask, Git, GitHub, Bootstrap,ReactJs,NodeJs,Firebase,Jwt,
+Google Cloud(Basic).
+Email: gprince685@gmail.com
+{{/user}}
